@@ -1,0 +1,7 @@
+*.txt=crlf
+*.md=crlf
+
+*.c=lf
+*.h=lf
+*.cpp=lf
+*.hpp=lf

@@ -1,0 +1,16 @@
+#Annoying OS stuff
+Thumbs.db
+ehthumbs.db
+.DS_Store*
+
+#Compiled things
+*.o
+*.obj
+*.exe
+*.so
+*.dll
+
+#Other things
+*.tmp
+*.log
+*.dmp
