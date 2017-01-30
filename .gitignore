@@ -9,8 +9,11 @@ ehthumbs.db
 *.exe
 *.so
 *.dll
+a.out
 
 #Other things
 *.tmp
 *.log
 *.dmp
+*.swp
+core
