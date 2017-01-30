@@ -27,6 +27,6 @@ Please check if it has already been reported/requested by searching the project'
 
 Important Legal Information
 ------------------------------
-For legal reasons, your contributions can only be accepted after you have signed a [contribution license agreement](https://ikaheishi.github.io/cla-info/).
+For legal reasons, your contributions can only be accepted after you have signed a [contribution license agreement](http://ikaheishi.net/cla-info/).
 
 NOTE THAT BY MAKING A CONTRIBUTION TO THE RUBY GAME ENGINE, YOU ACKNOWLEDGE THAT YOU ARE LEGALLY ENTERING INTO A CONTRACT AND THAT YOU ARE PROVIDING THE CONTRIBUTION UNDER AN IRREVOCABLE NON-EXCLUSIVE LICENSE TO IKAHEISHI.
